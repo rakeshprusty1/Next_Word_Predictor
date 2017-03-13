@@ -1,2 +1,2 @@
 # Next_Word_Predictor
-Codes for Capstone Project - Next word predictor
+This repository contains all the codes and intermediate files that were used to complete the capsone project - Next Word Prediction. 
