@@ -5,5 +5,6 @@ This repository contains all the codes and intermediate files that were used to 
  - ui.R and predict.R contain the codes for shiny application
  - The algorithm for prediction is on predict_next.r file.
  - The pictures present in shiny app are in www folder.
+ - The benchmarking script and test data are present in dsci-benchmark-master folder. 
  
 ###Here is the shiny app  - https://rakeshprusty.shinyapps.io/word_predictor_app/
